@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='prework-NataliaSmith-gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='prework-NataliaSmith-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ezgif.com  
 
