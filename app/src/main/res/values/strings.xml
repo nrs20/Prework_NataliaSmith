@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Part2Inclass</string>
+    <string name="natalia_intro">Hello World! My name is Natalia; I love software development and golden retrievers!</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
